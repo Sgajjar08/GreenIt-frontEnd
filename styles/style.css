@@ -38,6 +38,28 @@ img.logo {
     margin: 0 auto;
 }
 
+.form {
+    margin-left: -70px;
+}
+
 .section-inner-container {
     padding: 70px 0;
+}
+
+.form-input {
+    min-width: 450px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+  color: #ffffff;
+  background-color: #3276b1;
+  border-color: #285e8e;
+}
+
+.form-pad {
+    padding: 10px;
+    margin: 1px;
 }
