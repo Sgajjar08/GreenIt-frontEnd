@@ -1,4 +1,43 @@
+html {
+    font-family: sans-serif;
+}
+
+/* navbar */
+img.logo {
+    height: 50px;
+    width: 50px;
+    padding: 0;
+}
+
+.navbar-brand img{
+    margin-left: 20px;
+}
+
+
+
+
+
 /* section1 */
-sub {
+.section1 {
+    background-image: url("https://www.practo.com/bundles/practopractoapp/images/homepage/consumer_homepage.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    min-height: 460px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.sub {
     text-align: center;
+    color: white;
+}
+
+.form-container {
+    height: 100%;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.section-inner-container {
+    padding: 70px 0;
 }
