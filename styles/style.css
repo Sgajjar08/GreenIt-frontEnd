@@ -19,7 +19,7 @@ img.logo {
 
 /* section1 */
 .section1 {
-    background-image: url("https://www.practo.com/bundles/practopractoapp/images/homepage/consumer_homepage.svg");
+    background-image: url("/vendor/images/homepage.svg");
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
